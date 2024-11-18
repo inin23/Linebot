@@ -1,0 +1,13 @@
+database:
+  user: root
+  password: root
+  name: elder
+  host: 127.0.0.1:3306
+
+line_bot:
+  LINE_CHANNEL_SECRET: 2b5de1f896f32c5deb9cd1fed020e369
+  LINE_CHANNEL_ACCESS_TOKEN: JoUHRqh1c44w6jUjA2ZRTWGvuUCPXuGrfLfs0bbWULUw07dl5H9dG4bf4eGdjajIAyhphux2Xqg+xGgyHdbjbNVl6sbU7P7rB0hEI7XzzUxx0GGChjfPcmuTkf+RxlW9fFQ+kETs7VrbJd6Ob6XvbAdB04t89/1O/w1cDnyilFU=
+  webhook_url: "https://bce9-180-183-245-213.ngrok-free.app"
+
+agent:
+  authtoken: 2oWauN3Vju6r1uXmOBz1fAtf2Lw_4LzvJNCvNJ73Yxv84rekw
